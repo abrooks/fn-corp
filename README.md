@@ -55,7 +55,7 @@ undesigned parts of the implementation will cause last minute panics as final
 testing shines the harsh light of reality on the project but that's just how
 things go, right? Can we do any better?
 
-## Live Specidfication
+## Live Specification
 
 Of course we can do better!
 
