@@ -1,4 +1,4 @@
-= Welcome to FnCorp! =
+# Welcome to FnCorp!
 
 Welcome to FnCorp, new hire!
 
@@ -7,7 +7,7 @@ orientation. Everything we do is built on an approach called Live Specification
 or live-spec for short. We'll talk about live-spec below but first we need to
 talk about dead specification.
 
-= Dead Specification =
+## Dead Specification
 
 If you're coming from some other company like BigCorp, you've likely interacted
 with something we here call dead-spec. At other companies, before you start a
@@ -55,14 +55,14 @@ undesigned parts of the implementation will cause last minute panics as final
 testing shines the harsh light of reality on the project but that's just how
 things go, right? Can we do any better?
 
-= Live Specidfication =
+## Live Specidfication
 
 Of course we can do better!
 
 The idea of live-spec is quite simple but also very abstract. The idea is this:
 
-  live-spec is the practice of extracting implementation details directly from
-  the specification to use in the implementation.
+    live-spec is the practice of extracting implementation details directly
+    from the specification to use in the implementation.
 
 That's it! It doesn't seem like much but it changes *everything*. We'll get
 into the details of how we go about this later. For now let's think about the
